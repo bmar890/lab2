@@ -1,0 +1,39 @@
+body {
+  background-color: #DDDDDD;
+}
+
+.weatherTitle {
+  font-size: 64px;
+  text-align: center;
+  margin: 12px;
+}
+
+.weatherPrompt {
+  font-size: 24px;
+  text-align: left;
+  margin: 12px;
+}
+
+.weatherLocation {
+}
+
+#weatherInput {
+  font-size: 24px;
+  text-align: left;
+  margin: 12px;
+}
+
+#weatherSubmit {
+  font-size: 20px;
+  margin-left: 48px;
+}
+
+#weatherResults {
+  margin: 12px;
+  text-align: center;
+}
+
+#forecastResults {
+  margin: 12px;
+  text-align: center;
+}
